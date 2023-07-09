@@ -4,7 +4,7 @@
 - 🔍 I'm currently learning everything 😊
 
 ###### 🐱‍🏍 Languages: Java, HTML, CSS, xml, MySQL, Gherkin
-###### ✨ **Frameworks:** Selenium, JUnit, TestNG, Cucumber
+###### ✨ ** Frameworks: ** Selenium, JUnit, TestNG, Cucumber
 ###### 🥇 **Design Pattern:** Page Object Model(POM)
 ###### ⛳ **Tools:** IntelliJ, VS Code, Maven, Postman, JMeter, Restful API, Jenkins
 ###### 🥇 **Backend/Database Testing:** SQL, JDBC
